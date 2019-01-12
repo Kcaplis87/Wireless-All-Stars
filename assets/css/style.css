@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .nav-brand{
     font-size: 22px;
 }
@@ -5,3 +6,152 @@
     font-size: 18px;
 }
 
+=======
+body{
+    font-family:'arial','helvetica neue', helvetica, sans-serif;
+    color:#777;
+    width:960px;
+    font-size: 18px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+nav{
+    text-align:center;
+    color:black;
+    background: gray;
+    border:solid;
+    padding: 20px;
+    margin-bottom: 10px;
+    }
+
+        #logo{
+            background: white;
+            padding: 5px;
+            float: left;
+             border: solid;
+
+            }
+
+        #quote{
+            background: white;
+            padding: 5px;
+            margin: 2px;
+            float: right;
+            border: solid;
+            }
+        #about{
+            background: white;
+            margin: 2px;
+            padding: 5px;
+            float: right;
+            border: solid;
+            }
+
+        #repairs{
+            background: white;
+            margin: 2px;
+            padding: 5px;
+            float: right;
+            border: solid;
+            }
+
+
+
+
+
+#statement{
+    background: gray;
+    color:black;
+    padding: 25px;
+    margin: 10px;
+    border: solid ;
+
+}
+
+        #imgState{
+            background: white;
+             display: inline-block;
+             border: solid;
+             padding:20px; 
+            }
+
+#locations{
+    background: gray;
+    color:black;
+    border: solid;
+    padding:35px;
+    margin: 10px;
+    text-align: center;
+}
+
+        #location1{
+            background: white;
+            display: inline-block;
+            border: solid;
+            padding:70px;
+
+
+            }
+
+        #location2{
+            background: white;
+            display: inline;
+            border: solid;
+            padding:70px;
+
+        }
+
+        #location3{
+            background: white;
+            display: inline;
+            border: solid;
+            padding:70px;
+        }
+
+#help{
+    background: gray;
+    color:black;
+    border: solid;
+    padding:50px;
+    margin: 10px;
+    text-align: center;
+    
+}
+            #cell{
+                background: white;
+                display: inline-block;
+                border: solid;
+                padding:25px;
+            }
+
+            #tablet{
+                background: white;
+                display: inline;
+                border: solid;
+                padding:25px;
+            }
+
+            #computer{
+                background: white;
+                display: inline;
+                border: solid;
+                padding:25px;
+            }
+
+            #other{
+                background: white;
+                display: inline;
+                border: solid;
+                padding:25px;
+            }
+footer{
+    background: gray;
+    color:black;
+    border: solid;
+    padding:50px;
+    margin: 10px;
+    text-align: center;
+     
+}
+>>>>>>> 03edd8e980de3c984ed9ce23eb3ab1f7b5d7f07c
