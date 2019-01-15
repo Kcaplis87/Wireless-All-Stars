@@ -1,6 +1,46 @@
-.nav-brand{
-    font-size: 22px;
+#devices{
+    margin-top: 5px;
 }
-.nav-link{
-    font-size: 18px;
+#deviceOptions{
+    margin-top: 10px;
+    text-align: center;
 }
+
+locations{
+    background: gray;
+    color:black;
+    border: solid;
+    padding:35px;
+    margin: 10px;
+    text-align: center;
+}
+
+        #location1{
+            background: white;
+            display: inline-block;
+            border: solid;
+            padding:70px;
+
+
+            }
+
+        #location2{
+            background: white;
+            display: inline;
+            border: solid;
+            padding:70px;
+
+        }
+
+        #location3{
+            background: white;
+            display: inline;
+            border: solid;
+            padding:70px;
+        }
+
+footer,
+  .push {
+      text-align: center;
+    height: 105px;
+  }
