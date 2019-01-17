@@ -1,22 +1,27 @@
+
+.navbar{
+    background-color: black;
+}
+
 #devices{
+  
     margin-top: 5px;
 }
 #deviceOptions{
+    background-color: black;
+    color: whitesmoke;
     margin-top: 10px;
     text-align: center;
 }
 
-locations{
-    background: gray;
-    color:black;
-    border: solid;
-    padding:35px;
-    margin: 10px;
-    text-align: center;
+
+
+#locations{
+  
 }
 
         #location1{
-            background: white;
+            color: black;
             display: inline-block;
             border: solid;
             padding:70px;
@@ -25,7 +30,7 @@ locations{
             }
 
         #location2{
-            background: white;
+            color: black;
             display: inline;
             border: solid;
             padding:70px;
@@ -33,14 +38,87 @@ locations{
         }
 
         #location3{
-            background: white;
+            color: black;
             display: inline;
             border: solid;
             padding:70px;
         }
 
+
+h3{
+    font-weight: lighter;
+    font-size: 50px;
+    color:whitesmoke;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 0;
+}
+
+
+#insta{
+    text-align: center;
+    list-style: none;
+    margin: 10px 30px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px 10px;
+    color: black;
+    border: 2px solid;
+    border-radius: 50%;
+    transition: .5s;
+}
+
+#face{
+    text-align: center;
+    list-style: none;
+    margin: 10px 30px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px 10px;
+    color: black;
+    border: 2px solid;
+    border-radius: 50%;
+    transition: .5s;
+}
+
+#twitter{ 
+    list-style: none;
+    margin: 10px 30px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px 10px;
+    color: black;
+    border: 2px solid;
+    border-radius: 50%;
+    transition: .5s;
+}
+
+.fa{
+    
+    color:whitesmoke;
+    
+}
+
+.fa:hover {
+    background-color:whitesmoke;
+    color: gold;
+    border: 1px solid gold;
+
+}
+
+
 footer,
   .push {
       text-align: center;
     height: 105px;
+  }
+  
+  .wrapper{
+    background-color: black; 
+  }
+
+  .container{
+      background-color: black;
+      color:gold;
+
   }
